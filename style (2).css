@@ -1,12 +1,12 @@
 div{
-  background-color: #9D6B64;
+  background-color:red;
   margin-left:500px;
   height:100px;
   width:100px;
 }
 
 button{
-  background-color:#09CAFF;
+  background-color:blue;
   margin-left:10px;
 }
 
